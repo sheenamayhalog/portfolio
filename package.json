@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "deploy": "gh-pages -d out",
     "lint": "next lint"
   },
   "dependencies": {
@@ -20,6 +21,7 @@
     "detect-gpu": "^4.0.36",
     "express-rate-limit": "^7.5.0",
     "framer-motion": "^4.1.17",
+    "gh-pages": "^6.3.0",
     "https": "^1.0.0",
     "isomorphic-dompurify": "^2.20.0",
     "leaflet": "^1.8.0",
