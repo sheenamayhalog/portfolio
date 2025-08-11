@@ -32,10 +32,10 @@ export default function Home() {
         <title>{meta.title}</title>
         <meta name="robots" content="follow, index" />
         <meta content={meta.description} name="description" />
-        {/* to be modified */}
-        <meta property="og:url" content={`https://anaflous.com`} />
-        {/* to be modified */}
-        <link rel="canonical" href={`https://anaflous.com`} />
+
+        <meta property="og:url" content={`sheena-halog.netlify.app`} />
+
+        <link rel="canonical" href={`sheena-halog.netlify.app`} />
         <meta property="og:type" content={meta.type} />
         <meta property="og:site_name" content="Portfoio" />
         <meta property="og:description" content={meta.description} />
@@ -54,9 +54,8 @@ export default function Home() {
         <SomethingIveBuilt />
         <GetInTouch />
 
-        {/* url to be modified later */}
         <Footer
-          githubUrl={"https://github.com/hktitof/my-website"}
+          githubUrl={"https://github.com/sheenamayhalog/portfolio"}
           hideSocialsInDesktop={true}
         />
       </div>
