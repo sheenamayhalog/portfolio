@@ -38,7 +38,7 @@ const AboutMe = forwardRef<HTMLDivElement>(() => {
               {" "}
               01.
             </span>
-            <span className="flex-none text-gray-200 opacity-85 font-bold tracking-wider text-lg sm:text-2xl pl-4">
+            <span className="flex-none text-gray-100 opacity-85 font-bold tracking-wider text-lg sm:text-2xl pl-4">
               About Me
             </span>
           </div>
@@ -49,7 +49,7 @@ const AboutMe = forwardRef<HTMLDivElement>(() => {
         <div className="w-full flex flex-col md:flex-row space-y-8 md:space-y-0 md:space-x-8 sm:space-x-2">
           {/* Text Content */}
           <div className="w-full md:w-7/12 space-y-4 sm:text-base text-sm">
-            <div className="font-Header text-gray-400 text-justify">
+            <div className="font-Header text-gray-200 text-justify">
               Hey there! I’m Sheena, after getting my{" "}
               <span className="text-AAsecondary">Computer Science degree</span>,
               I spent <span className="text-AAsecondary">+5 years</span> honing
@@ -58,7 +58,7 @@ const AboutMe = forwardRef<HTMLDivElement>(() => {
               leading the various development of governement intiatives for the
               betterment of relief disbursement.
             </div>
-            <div className="font-Header text-gray-400 text-justify">
+            <div className="font-Header text-gray-200 text-justify">
               What I love most is diving into new challenges and picking up
               fresh skills along the way – from{" "}
               <span className="text-AAsecondary">
@@ -71,7 +71,7 @@ const AboutMe = forwardRef<HTMLDivElement>(() => {
               into future projects. There&apos;s always something new to learn
               in this field, and I&apos;m here for it.
             </div>
-            <div className="font-Header tracking-wide text-gray-400 pt-2 pb-1 text-justify">
+            <div className="font-Header tracking-wide text-gray-200 pt-2 pb-1 text-justify">
               Here&apos;s what I&apos;m usually working with these days:
             </div>
             {/* Technologies List */}
@@ -89,7 +89,7 @@ const AboutMe = forwardRef<HTMLDivElement>(() => {
                       <ArrowIcon
                         className={"h-3 w-3 text-AAsecondary flex-none"}
                       />
-                      <span className="text-gray-400 sm:text-sm text-xs">
+                      <span className="text-gray-200 sm:text-sm text-xs">
                         {tech}
                       </span>
                     </div>
@@ -97,7 +97,7 @@ const AboutMe = forwardRef<HTMLDivElement>(() => {
                 </div>
               ))}
             </div>
-            <div className="font-Header text-gray-400 pt-4 text-justify">
+            <div className="font-Header text-gray-200 pt-4 text-justify">
               Whether it&apos;s leading modern web applications, or exploring
               something entirely new, I&apos;m always ready for the next coding
               adventure.

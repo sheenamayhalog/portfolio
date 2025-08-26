@@ -22,7 +22,7 @@ export default function SomethingIveBuilt() {
             {" "}
             03.
           </span>
-          <span className=" font-bold tracking-wider text-gray-200 text-lg md:text-2xl w-44 md:w-56 opacity-85">
+          <span className=" font-bold tracking-wider text-gray-100 text-lg md:text-2xl w-44 md:w-56 opacity-85">
             {" "}
             Some Things I&apos;ve Built
           </span>
@@ -64,12 +64,12 @@ export default function SomethingIveBuilt() {
 
             <div className="px-8 pt-8 sm:pt-12 md:py-0 xl:col-span-6 col-span-8 flex flex-col items-start  space-y-3 md:order-1">
               <div className="flex flex-col space-y-1  z-10">
-                <span className="md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
+                <span className="md:text-gray-100 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                   Various Projects
                 </span>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left md:text-left ">
+                <p className="text-gray-200 md:text-gray-200 text-left md:text-left ">
                   At ETHOS, I spearheaded vaious registration apps like{" "}
                   <a
                     target="_blank"
@@ -179,13 +179,13 @@ export default function SomethingIveBuilt() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
+                  <span className=" md:text-gray-100 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     Swiss GRC Toolbox
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
+                <p className="text-gray-200 md:text-gray-200 text-left md:text-right">
                   The GRC Toolbox is a centralized, modular platform designed to
                   help organizations streamline their Governance, Risk, and
                   Compliance (GRC) processes. It is built using the MERN stack,
@@ -271,13 +271,13 @@ export default function SomethingIveBuilt() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
+                  <span className=" md:text-gray-100 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     Finale Health
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left">
+                <p className="text-gray-200 md:text-gray-200 text-left">
                   Finale Health is a cloud-based electronic medical record (EMR)
                   system designed specifically for home health and hospice
                   providers. I was part of the backend focused, data migration
@@ -362,13 +362,13 @@ export default function SomethingIveBuilt() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
+                  <span className=" md:text-gray-100 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     Bundr
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
+                <p className="text-gray-200 md:text-gray-200 text-left md:text-right">
                   Bundr is a digital marketing platform that runs targeted ad
                   campaigns for retailers. Using social media accounts, we run
                   multilingual and brand-specific advertisements to Meta-owned
@@ -452,13 +452,13 @@ export default function SomethingIveBuilt() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
+                  <span className=" md:text-gray-100 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     digiCOOP
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left ">
+                <p className="text-gray-200 md:text-gray-200 text-left ">
                   DigiCoop is a digital platform for cooperatives that offers
                   digital banking, lending, insurance, investments, online bill
                   payments, credit scoring, and e-learning modules for their

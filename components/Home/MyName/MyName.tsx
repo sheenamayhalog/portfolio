@@ -41,7 +41,7 @@ const MyName: React.FC<MyNameProps> = (props) => {
             duration: props.finishedLoading ? 0 : 0.2,
           },
         }}
-        className="text-gray-300 font-bold text-3xl lg:text-7xl sm:text-5xl md:text-6xl mt-4"
+        className="text-gray-100 font-bold text-3xl lg:text-7xl sm:text-5xl md:text-6xl mt-4"
       >
         Sheena May Halog.
       </motion.h1>
@@ -76,7 +76,7 @@ const MyName: React.FC<MyNameProps> = (props) => {
             duration: props.finishedLoading ? 0 : 0.2,
           },
         }}
-        className="text-gray-400 font-Header text-sm md:text-lg sm:text-md mt-10 tracking-wider"
+        className="text-gray-200 font-Header text-sm md:text-lg sm:text-md mt-10 tracking-wider"
       >
         I&apos;m a{" "}
         <span className="text-AAsecondary keyword-hover">

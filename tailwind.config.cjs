@@ -1,6 +1,9 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./pages/**/*.{js,ts,jsx,tsx}", "./components/**/*.{js,ts,jsx,tsx}"],
+  content: [
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+  ],
   theme: {
     rotate: {
       "-180": "-180deg",
@@ -21,8 +24,8 @@ module.exports = {
         Arimo: ["Arimo", "sans-serif"],
       },
       colors: {
-        AAprimary: "#0b192f",
-        AAsecondary: "#64ffda",
+        AAprimary: "#450920",
+        AAsecondary: "#ffa5ab",
         AAError: "#ff6489",
         AAtertiary: "#112340",
         ResumeButtonHover: "#153040",

@@ -31,7 +31,7 @@ export default function YpredictAI() {
             Frontend Developer
           </span>
           {/* Date */}
-          <span className="font-mono text-xs text-gray-500">
+          <span className="font-mono text-xs text-gray-400">
             Sept 2025 - Jun 2025 [Contract]
           </span>
           <span
@@ -52,7 +52,7 @@ export default function YpredictAI() {
               <div key={index} className="flex flex-row space-x-1">
                 <ArrowIcon className={" h-5 w-4 text-AAsecondary flex-none"} />
                 <span
-                  className="text-gray-500 sm:text-sm text-xs"
+                  className="text-gray-200 sm:text-sm text-xs"
                   dangerouslySetInnerHTML={{
                     __html: getTasksTextWithHighlightedKeyword(
                       item.text,

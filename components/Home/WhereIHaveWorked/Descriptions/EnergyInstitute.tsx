@@ -39,7 +39,7 @@ export default function EnergyInstitute() {
             Lead Front-End Developer
           </span>
           {/* Date */}
-          <span className="font-mono text-xs text-gray-500">
+          <span className="font-mono text-xs text-gray-400">
             Oct 2022 - Present [Part-time]
           </span>
           <span
@@ -60,7 +60,7 @@ export default function EnergyInstitute() {
                 <ArrowIcon className={"h-5 w-4 text-AAsecondary flex-none"} />{" "}
                 {/* Or your preferred color */}
                 <span
-                  className="text-gray-500 sm:text-sm text-xs"
+                  className="text-gray-200 sm:text-sm text-xs"
                   dangerouslySetInnerHTML={{
                     __html: getTasksTextWithHighlightedKeyword(
                       item.text,
