@@ -60,7 +60,7 @@ const MyName: React.FC<MyNameProps> = (props) => {
         }}
         className="text-gray-400 font-bold text-3xl lg:text-7xl sm:text-5xl md:text-6xl mt-4"
       >
-        I make ideas happen.
+        {/* I make ideas happen. */}
       </motion.h2>
 
       <motion.h3
