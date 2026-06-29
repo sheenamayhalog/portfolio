@@ -70,11 +70,11 @@ export default function SomethingIveBuilt() {
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-200 md:text-gray-200 text-left md:text-left ">
-                  At ETHOS, I spearheaded vaious registration apps like{" "}
+                  At ETHOS, I spearheaded various registration apps like{" "}
                   <a
                     target="_blank"
                     rel="noreferrer"
-                    href="https://19thcongresshreps.ph/"
+                    href="https://dev.19thcongresshreps.ph/"
                     className="text-AAsecondary"
                   >
                     HOR
@@ -105,10 +105,21 @@ export default function SomethingIveBuilt() {
                     className="text-AAsecondary"
                   >
                     BPSF
-                  </a>{" "}
-                  and various apps which aids goventment agencies to efficient
-                  dispersement of relief iniatives. Leveraging technologies like
-                  ReactJS, TypeScript, Vite, MUI and AWS.
+                  </a>
+                  , and{" "}
+                  <a
+                    target="_blank"
+                    rel="noreferrer"
+                    href="https://bantayproyekto.com/"
+                    className="text-AAsecondary"
+                  >
+                    Bantay Proyekto
+                  </a>
+                  , aiding government agencies in the efficient disbursement of
+                  relief initiatives. I leveraged a modern tech stack including
+                  React, TypeScript, Vite, and MUI, hosted on AWS, while
+                  ensuring high code quality through Playwright testing and
+                  AI-assisted development with Claude.
                 </p>
               </div>
               <ul
@@ -119,6 +130,9 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">TypeScript</span>
                 <span className="pr-4 z-10">MUI</span>
                 <span className="pr-4 z-10">AWS</span>
+                <span className="pr-4 z-10">Playwright</span>
+                <span className="pr-4 z-10">Claude</span>
+                <span className="pr-4 z-10">Vite</span>
               </ul>
             </div>
           </div>
@@ -136,7 +150,7 @@ export default function SomethingIveBuilt() {
           >
             <div className="relative rounded w-full h-full col-span-7 ">
               <a
-                href="https://mfe-sgrc-bd-root.swissgrc.net/"
+                href="https://swissgrc.com/en/"
                 target={"_blank"}
                 rel="noreferrer"
               >
@@ -175,7 +189,7 @@ export default function SomethingIveBuilt() {
             >
               <div className="flex flex-col space-y-1 md:items-end z-10">
                 <a
-                  href="https://mfe-sgrc-bd-root.swissgrc.net/"
+                  href="https://swissgrc.com/en/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -200,12 +214,15 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">MERN</span>
                 <span className="pr-4 z-10">GraphQL</span>
                 <span className="pr-4 z-10">Docker</span>
-                <span className="pr-4 z-10">Miscroservices</span>
+                <span className="pr-4 z-10">Microservices</span>
+                <span className="pr-4 z-10">Storybook</span>
+                <span className="pr-4 z-10">Cursor</span>
+                <span className="pr-4 z-10">Ant Design</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
                 <div className="z-10 flex fle-row space-x-5 ">
                   <a
-                    href="https://mfe-sgrc-bd-root.swissgrc.net/"
+                    href="https://swissgrc.com/en/"
                     target={"_blank"}
                     rel="noreferrer"
                   >
@@ -293,6 +310,8 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">ExpressJS</span>
                 <span className="pr-4 z-10">AngularJS</span>
                 <span className="pr-4 z-10">NodeJS</span>
+                <span className="pr-4 z-10">Tailwind CSS</span>
+                <span className="pr-4 z-10">HIPAA</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
                 <a
@@ -382,6 +401,8 @@ export default function SomethingIveBuilt() {
               >
                 <span className="pr-4 z-10">ReactJS</span>
                 <span className="pr-4 z-10">TypeScript</span>
+                <span className="pr-4 z-10">Bootstrap</span>
+                <span className="pr-4 z-10">Stripe</span>
                 <span className="pr-4 z-10">Cypress</span>
                 <span className="pr-4 z-10">REST APIs</span>
               </ul>
@@ -473,6 +494,9 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Python</span>
                 <span className="pr-4 z-10">Django</span>
                 <span className="pr-4 z-10">VueJS</span>
+                <span className="pr-4 z-10">ReactJS</span>
+                <span className="pr-4 z-10">Bootstrap</span>
+                <span className="pr-4 z-10">Tailwind CSS</span>
                 <span className="pr-4 z-10">Payment gateways</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
